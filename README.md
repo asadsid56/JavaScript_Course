@@ -24,7 +24,7 @@ Here's a step-by-step list of main topics to learn JavaScript:
 | 17   | Regular Expressions      |
 | 18   | Debugging Tools          |
 
-Of course! Here's a brief explanation of each step:
+A brief explanation of each step:
 
 1. **Basic Syntax and Data Types**: Learn about JavaScript syntax and the various data types like strings, numbers, booleans, arrays, and objects.
 
